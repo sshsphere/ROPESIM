@@ -5,7 +5,8 @@ Webassembly version hosted at: https://hsphere.pages.dev/ropesim/
 #### Controls
 Left click to add point\
 Right click to delete point\
-Middle click to anchor point
+Middle click to anchor point\
+Space to stop/start simulation
 ## Build
 * Clone the repo with ```git clone --recursive```
 * Link the [raylib](https://github.com/raysan5/raylib) library
